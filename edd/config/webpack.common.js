@@ -41,13 +41,13 @@ module.exports = {
     new HtmlWebpackPlugin({
       title: packageFile.name,
       version: packageFile.version,
-      // favicon: paths.src + '/img/favicon.png',
+      favicon: paths.src + '/img/favicon.png',
       template: paths.src + '/index.html', // template file
       filename: 'index.html' // output file
     }),
 
     // favicon
-    new FaviconsWebpackPlugin('./src/img/favicon.ico')
+    //new FaviconsWebpackPlugin('./src/img/favicon.ico')
   ],
 
   // Determine how modules within the project are treated
