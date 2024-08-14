@@ -3,4 +3,4 @@
 
 
 ## EDD
-Try the EDD (easyDeclare Designer) tool online: [blasilli.github.io/EDD](blasilli.github.io/EDD).
+Try the EDD (easyDeclare Designer) tool online: [blasilli.github.io/EDD](https://blasilli.github.io/EDD).
